@@ -1,5 +1,5 @@
 do local _ = {
-  admins = {},
+  admins = {782187490},
   disabled_channels = {},
   enabled_plugins = {
     "Administrative",
